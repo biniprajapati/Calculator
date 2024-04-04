@@ -1,0 +1,1 @@
+ C:\\Users\\Ripple\\Downloads\\calculator_in_flutter-master\\calculator_in_flutter-master\\.dart_tool\\flutter_build\\ede6fb672d37a11e5c05654c3e4c381b\\native_assets.yaml: 
